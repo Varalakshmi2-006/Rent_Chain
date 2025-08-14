@@ -1,0 +1,17 @@
+[package]
+name = "RentChain"
+version = "1.0.0"
+authors = []
+
+[addresses]
+RentChain = "9b70d9d0f10d7d8b9fcb9f6343205efdedfef5d6d57b9242e6154d61fb399170"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
+
