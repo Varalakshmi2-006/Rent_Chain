@@ -1,4 +1,3 @@
-This sounds like an excellent project idea! It addresses a very common problem. Here is a README file template for your project, RentChain, based on the description you provided.
 
 RentChain
 Description
